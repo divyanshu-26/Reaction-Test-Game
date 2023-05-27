@@ -1,0 +1,25 @@
+body{
+
+    font-family: sans-serif;
+    background-color: #d2cdcd;
+}
+
+#heading{
+    text-align: center;
+    /* display: block;
+    justify-content: center;
+    justify-items: center;
+    align-items: center; */
+}
+
+#shape{
+    width: 200px;
+    height: 200px;
+    display: none;
+    position: relative;
+}
+
+.bold{
+
+    font-weight: bold;
+}
